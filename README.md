@@ -5,6 +5,6 @@ https://docs.google.com/spreadsheets/d/1EsdEJ6NdWdbtZbEcYdC6QMJ0J8TQcGHL_AMyp5Oz
 
 To Run Tests:
 
-Go To TestYOU directory
-Open Terminal and run command : npx playwright test
-To see report : npx playwright show-report
+1. Go To TestYOU directory
+2. Open Terminal and run command : npx playwright test
+3. To see report : npx playwright show-report
